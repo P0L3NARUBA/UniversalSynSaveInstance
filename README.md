@@ -1,3 +1,11 @@
+# Supported Executors
+- [x] Delta
+- [x] Fluxus
+- [x] Swift
+- [x] Velocity 
+- [ ] KRNL (It leads to crash since it doesn't has saveinstance support.)
+- [x] Other Executors 
+
 # Loadstring
 *Paste the lines at the bottom to your executor.*
 
