@@ -5,7 +5,7 @@
 - [x] Velocity 
 - [ ] KRNL
    - It initializes but leads to crash when script tries to decompile or save the place since it doesn't has Workspace support afaik.
-- [x] Other Executors 
+- [x] Other Executors
 
 # Loadstring
 *Paste the lines at the bottom to your executor.*
