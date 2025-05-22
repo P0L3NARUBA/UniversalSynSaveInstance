@@ -3,7 +3,8 @@
 - [x] Fluxus
 - [x] Swift
 - [x] Velocity 
-- [ ] KRNL (It leads to crash since it doesn't has saveinstance support.)
+- [ ] KRNL
+   - It initializes but leads to crash when script tries to decompile or save the place since it doesn't has Workspace support afaik.
 - [x] Other Executors 
 
 # Loadstring
