@@ -2,7 +2,7 @@
 *Paste the lines at the bottom to your executor.*
 
 ```lua
-local synsaveinstance = loadstring(game:HttpGet("https://raw.githubusercontent.com/verysigmapro/UniversalSynSaveInstance-With-Save-Terrain/refs/heads/main/saveinstance_rewrite.luau", true), "saveinstance")();
+local synsaveinstance = loadstring(game:HttpGet("https://raw.githubusercontent.com/yungDoom/UniversalSynSaveInstance-Mod/refs/heads/main/saveinstance.luau", true), "saveinstance")();
 local SaveinstanceOptions = {}
 synsaveinstance(SaveinstanceOptions);
 ```
