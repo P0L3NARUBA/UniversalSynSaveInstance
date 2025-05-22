@@ -11,8 +11,8 @@ synsaveinstance(SaveinstanceOptions);
 Heres the options that you can use it to set how decompiler works.<br>
 You need to put these options inside the curly braces of **SaveinstanceOptions** by the way.
 
-- noscripts= bool (true, false)
+- noscripts=*bool* (true, false)
   - This will only save the map and not the scripts.
-- usekonstantdecompiler= bool (true, false)
+- usekonstantdecompiler=*bool* (true, false)
   - This will use the Konstant Decompiler for Scripts (Recommended)
 - **Coming soon...**
