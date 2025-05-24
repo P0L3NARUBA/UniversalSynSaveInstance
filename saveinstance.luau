@@ -2,7 +2,7 @@
 --!optimize 2
 --!divine-intellect
 
-local konstantdecompiler = loadstring(game:HttpGet('https://raw.githubusercontent.com/yungDoom/UniversalSynSaveInstance/refs/heads/main/konstantdecompiler.lua'))()
+local konstantdecompiler = loadstring(game:HttpGet('https://raw.githubusercontent.com/P0L3NARUBA/UniversalSynSaveInstance/refs/heads/main/konstantdecompiler.lua'))()
 
 local game = game
 local pcall = pcall
@@ -184,7 +184,7 @@ do -- * Load Region of Déjà Vu
 		local reselim_base64encode
 		pcall(function()
 			local b64_enc_buf = loadstring(
-				game:HttpGet("https://raw.githubusercontent.com/yungDoom/UniversalSynSaveInstance/refs/heads/main/ReselimBase64.lua", true),
+				game:HttpGet("https://raw.githubusercontent.com/P0L3NARUBA/UniversalSynSaveInstance/refs/heads/main/ReselimBase64.lua", true),
 				"Base64"
 			)().encode
 			reselim_base64encode = function(raw)
