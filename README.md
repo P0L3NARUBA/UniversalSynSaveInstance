@@ -11,7 +11,7 @@
 *Paste the lines at the bottom to your executor.*
 
 ```lua
-local synsaveinstance = loadstring(game:HttpGet("https://raw.githubusercontent.com/yungDoom/UniversalSynSaveInstance-Mod/refs/heads/main/saveinstance.luau", true), "saveinstance")();
+local synsaveinstance = loadstring(game:HttpGet("https://raw.githubusercontent.com/P0L3NARUBA/UniversalSynSaveInstance-Mod/refs/heads/main/saveinstance.luau", true), "saveinstance")();
 local SaveinstanceOptions = {}
 synsaveinstance(SaveinstanceOptions);
 ```
