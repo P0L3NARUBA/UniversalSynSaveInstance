@@ -23,7 +23,9 @@ You need to put these options inside the curly braces of **SaveinstanceOptions**
 - noscripts=*bool* (true, false)
   - This will only save the map and not the scripts.
 - usekonstantdecompiler=*bool* (true, false)
-  - Use the Konstant Decompiler for Scripts (Recommended)
+  - Uses the Konstant Decompiler for Scripts (Recommended)
 - RemovePlayerCharacters=*bool* (true, false)
-  - Ignore the characters in the game.  
+  - Ignores the characters in the game.
+- IgnoreDefaultPlayerScripts=*bool* (true,f alse)
+  -Ignores the player scripts 
 - **Coming soon...**
