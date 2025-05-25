@@ -12,7 +12,7 @@
 
 ```lua
 local synsaveinstance = loadstring(game:HttpGet("https://raw.githubusercontent.com/P0L3NARUBA/UniversalSynSaveInstance/refs/heads/main/saveinstance.luau", true), "saveinstance")();
-local SaveinstanceOptions = {}
+local SaveinstanceOptions = {option1, option2}
 synsaveinstance(SaveinstanceOptions);
 ```
 
